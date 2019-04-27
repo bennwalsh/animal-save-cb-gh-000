@@ -18,5 +18,10 @@ html {
   right: 0;
 }
 
+@media screen and (max-width: 642px) {
+  #dolphin {
+    top: 100px;
+    right: 0px
+  }
+}
 /* Write your solution here */
-
